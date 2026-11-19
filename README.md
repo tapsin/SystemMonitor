@@ -69,7 +69,8 @@ If you find this useful, consider supporting development:
 
 - **Bitcoin (BTC)**: `bc1qxxxx...xxxx`
 - **Ethereum (ETH)**: `0xXXXX...XXXX`
-- **USDT (TRC20)**: `TXXXX...XXXX`
+- **USDT (BSC20)**: `0x15aac92a1945ddbe5c79304bfa388d6be99b26a3`
+- **USDT (TRC20)**: `TYCK6ZyMS6UDt787foPH2QwFuvkdqMw1Jv`
 - **PayPal**: [paypal.me/yourname](https://paypal.me/yourname)
 - **GitHub Sponsors**: [github.com/sponsors/tapsin](https://github.com/sponsors/tapsin)
 
